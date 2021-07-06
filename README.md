@@ -9,12 +9,15 @@ Find years 2016-2019 already cleaned on kaggle: https://kaggle.com/jshap16/doj-a
 Key to cleaning data from the DOJ is that the numbers are represented as strings, so the special characters need to be eliminated prior to being able to analyze the data.
 
 CSV:
+
 ![image](https://github.com/jshapi16/DOJ-data-cleaning/blob/main/Images/Clean%20Csv.png?raw=true)
 
 Shape of the data:
+
 ![image](https://github.com/jshapi16/DOJ-data-cleaning/blob/main/Images/Histograms%20and%20standard%20statistics%20for%20each%20column.png?raw=true)
 
 DOJ description of crimes disclaimer:
+
 ![image](https://github.com/jshapi16/DOJ-data-cleaning/blob/main/Images/Offense%20Disclaimer.png?raw=true)
 https://www.ojjdp.gov/ojstatbb/crime/ucr.asp?table_in=2
 
