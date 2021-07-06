@@ -9,7 +9,7 @@ Find years 2016-2019 already cleaned on kaggle: https://kaggle.com/jshap16/doj-a
 Key to cleaning data from the DOJ is that the numbers are represented as strings, so the special characters need to be eliminated prior to being able to analyze the data.
 
 
-
+![image](https://github.com/jshapi16/DOJ-data-cleaning/blob/main/Images/Clean%20Csv.png?raw=true)
 
 
 
