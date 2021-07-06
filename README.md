@@ -7,3 +7,11 @@ This cleaning procedure allows anyone looking for data on arrests by race to eas
 Find years 2016-2019 already cleaned on kaggle: https://kaggle.com/jshap16/doj-arrests-by-race-20162019?utm_medium=social&utm_campaign=kaggle-dataset-share&utm_source=twitter 
 
 Key to cleaning data from the DOJ is that the numbers are represented as strings, so the special characters need to be eliminated prior to being able to analyze the data.
+
+
+
+
+
+
+License
+Data and content created by government employees within the scope of their employment are not subject to domestic copyright protection under 17 U.S.C. § 105. Government works are by default in the U.S. Public Domain.
